@@ -11,4 +11,4 @@ I hope this can help some people running Linux on their machine.
 | ---- | ---- | ---- |
 | RGB Keyboards | | Userland program [asus-linux/asusctl](https://gitlab.com/asus-linux/asusctl) |
 | Cannot recover from suspend, `s2idle` not working | Run my script [Enable S3 sleep](https://github.com/canoriz/linux-on-asus-laptops/blob/main/enable-acpi-s3.sh) | no |
-| Power button failed at kernel 5.17 | no | no |
+| Power button failed at kernel `5.17` | no | no |
